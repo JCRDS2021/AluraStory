@@ -32,10 +32,10 @@ O gráfico de avaliação dos clientes permite analisar a média das notas atrib
 O gráfico do frete médio de cada loja apresenta os custos médios de envio praticados por cada estabelecimento, permitindo avaliar sua competitividade nesse aspecto. Fretes mais baixos tendem a atrair maior volume de clientes, especialmente aqueles que buscam alternativas econômicas para suas compras. Por outro lado, fretes mais elevados podem refletir uma estratégia comercial específica ou custos operacionais maiores. Essa análise é crucial para compreender como os custos de envio impactam a decisão dos clientes e o desempenho geral das lojas. Esse indicador, juntamente com os demais, será essencial na recomendação final do relatório.
 
 FRETES MÉDIOS POR LOJA
-Loja 1: 34.69
-Loja 2: 33.62
-Loja 3: 33.07
-Loja 4: 31.28
+* Loja 1: 34.69
+* Loja 2: 33.62
+* Loja 3: 33.07
+* Loja 4: 31.28
 
 - Categorias de Produtos mais vendidos
 
