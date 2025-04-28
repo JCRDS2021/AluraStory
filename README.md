@@ -28,4 +28,14 @@ O gráfico do frete médio de cada loja apresenta os custos médios de envio pra
 
 - Categorias de Produtos mais vendidos
 
+CONCLUSÃO
+
+Com base nos dados apresentados, parece mais vantajoso considerar a venda da Loja 4 para investir em outro negócio. Aqui está o raciocínio:
+- Faturamento: A Loja 4 apresenta o menor faturamento total, com R$ 1.384.497,58, em comparação às demais lojas. Isso indica um desempenho financeiro inferior.
+- Avaliações de clientes: Embora sua média de avaliação seja razoável (4.0), ela está abaixo das médias das Lojas 2 (4.04) e 3 (4.05), o que sugere menor satisfação entre os consumidores.
+- Frete médio: Apesar de ter o menor custo médio de frete (R$ 31,28), o impacto positivo desse fator parece não compensar seu desempenho geral mais fraco.
+
+Portanto, a Loja 4 se destaca como a opção menos competitiva entre as quatro, tornando-a a candidata ideal para venda. Assim, os recursos obtidos com a venda podem ser direcionados para novas oportunidades mais promissoras. 
+
+
 Os gráficos das categorias de produtos mais vendidos destacam os segmentos que possuem maior demanda em cada loja, permitindo identificar tendências de consumo entre os clientes. Essa análise evidencia quais categorias contribuem significativamente para o faturamento e o desempenho de cada estabelecimento. Além disso, comparar as categorias mais vendidas ajuda a entender as preferências do público e a eficiência das estratégias de vendas implementadas. Esses gráficos fornecem uma visão clara sobre os produtos que impulsionam os resultados, sendo fundamentais para embasar a recomendação final. Assim, eles complementam as demais análises realizadas no relatório.
