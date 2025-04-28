@@ -11,8 +11,11 @@ DESENVOLVIMENTO
 Com base nos dados analisados, o gráfico de faturamento das lojas apresenta uma comparação direta entre os valores totais gerados por cada estabelecimento. Essa visualização permite identificar qual loja obteve o maior desempenho financeiro, destacando-se em relação às demais. Além disso, é possível observar as diferenças de faturamento que podem estar relacionadas a fatores como diversidade de produtos ou estratégias de vendas adotadas. A análise desse gráfico é essencial para compreender a posição de cada loja no mercado e avaliar seu potencial de venda. Assim, este gráfico será utilizado como um dos principais indicadores na recomendação final.
 
 Faturamento Loja 1: R$ 1.534.509,12
+
 Faturamento Loja 2: R$ 1.488.459,06
+
 Faturamento Loja 3: R$ 1.464.025,03
+
 Faturamento Loja 4: R$ 1.384.497,58
 
 - Avaliação dos Clientes
