@@ -22,9 +22,20 @@ Faturamento Loja 4: R$ 1.384.497,58
 
 O gráfico de avaliação dos clientes permite analisar a média das notas atribuídas a cada loja, evidenciando o nível de satisfação dos consumidores. Essa métrica é fundamental para identificar a percepção do público sobre a qualidade dos produtos e serviços oferecidos. As lojas com melhores avaliações destacam-se por apresentar uma maior aceitação e fidelização dos clientes, enquanto notas mais baixas podem sinalizar áreas de melhoria. A análise dessas avaliações ajuda a entender quais fatores contribuem para o sucesso ou desafios enfrentados por cada estabelecimento. Esse indicador será considerado na recomendação final, complementando os demais dados analisados.
 
+* Avaliação da Loja: 3.98
+* Avaliação da Loja 2: 4.04
+* Avaliação da Loja 3: 4.05
+* Avaliação da Loja 4: 4.0
+
 - Frete Médio
 
 O gráfico do frete médio de cada loja apresenta os custos médios de envio praticados por cada estabelecimento, permitindo avaliar sua competitividade nesse aspecto. Fretes mais baixos tendem a atrair maior volume de clientes, especialmente aqueles que buscam alternativas econômicas para suas compras. Por outro lado, fretes mais elevados podem refletir uma estratégia comercial específica ou custos operacionais maiores. Essa análise é crucial para compreender como os custos de envio impactam a decisão dos clientes e o desempenho geral das lojas. Esse indicador, juntamente com os demais, será essencial na recomendação final do relatório.
+
+FRETES MÉDIOS POR LOJA
+Loja 1: 34.69
+Loja 2: 33.62
+Loja 3: 33.07
+Loja 4: 31.28
 
 - Categorias de Produtos mais vendidos
 
